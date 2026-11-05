@@ -1,0 +1,778 @@
+[
+  {
+    "name": "inter-latin.woff2",
+    "url": "https://star-buxx.com/fonts/inter-latin.woff2",
+    "file": "dd6d3214b89c1cd0.woff2",
+    "kind": "font",
+    "contentType": "font/woff2",
+    "bytes": 48256
+  },
+  {
+    "name": "plus-jakarta-sans-latin.woff2",
+    "url": "https://star-buxx.com/fonts/plus-jakarta-sans-latin.woff2",
+    "file": "0bd8cf67c5567bc4.woff2",
+    "kind": "font",
+    "contentType": "font/woff2",
+    "bytes": 27348
+  },
+  {
+    "name": "hero-via-plus-v2.webp",
+    "url": "https://star-buxx.com/uploads/home/hero-via-plus-v2.webp",
+    "file": "e8587c3e28bd6767.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 21380
+  },
+  {
+    "name": "starbuxx-logo.webp",
+    "url": "https://star-buxx.com/uploads/starbuxx-logo.webp",
+    "file": "8ab4b96cd95a45b9.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 10474
+  },
+  {
+    "name": "roblox-banner-bg-v2-poster-CXDXswG8.webp",
+    "url": "https://star-buxx.com/assets/roblox-banner-bg-v2-poster-CXDXswG8.webp",
+    "file": "e6f0a4ebd55b2b21.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 143644
+  },
+  {
+    "name": "roblox-banner-bg-v2-DT8GnSF7.webm",
+    "url": "https://star-buxx.com/assets/roblox-banner-bg-v2-DT8GnSF7.webm",
+    "file": "74471d8ba6257a12.webm",
+    "kind": "video",
+    "contentType": "video/webm",
+    "bytes": 1117272
+  },
+  {
+    "name": "bloxfruits-hero-poster-BgMVI6ca.webp",
+    "url": "https://star-buxx.com/assets/bloxfruits-hero-poster-BgMVI6ca.webp",
+    "file": "fcf7c0661154b658.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 38748
+  },
+  {
+    "name": "bloxfruits-hero.webm",
+    "url": "https://star-buxx.com/uploads/bloxfruits-hero.webm",
+    "file": "6c3c40879a0ecbb2.webm",
+    "kind": "video",
+    "contentType": "video/webm",
+    "bytes": 2608151
+  },
+  {
+    "name": "noFilter",
+    "url": "https://tr.rbxcdn.com/180DAY-a64f70da20fc1e80ee76fe5d49c1be0a/256/256/Image/Webp/noFilter",
+    "file": "36b9e8e73c968c3c.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 25786
+  },
+  {
+    "name": "noFilter",
+    "url": "https://tr.rbxcdn.com/180DAY-78d00bbf638e598259f8d1fa87b5fa27/256/256/Image/Webp/noFilter",
+    "file": "d84991f50b522376.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 27876
+  },
+  {
+    "name": "noFilter",
+    "url": "https://tr.rbxcdn.com/180DAY-fe7335c3ad752e84323cd81ae38de69a/768/432/Image/Webp/noFilter",
+    "file": "894f83bbec96772c.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 33508
+  },
+  {
+    "name": "qualquer-jogo-collage.webp",
+    "url": "https://star-buxx.com/__l5e/assets-v1/de728524-9cde-4868-a3b9-4dd3cce98ada/qualquer-jogo-collage.webp",
+    "file": "878a9004e9b46577.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 131420
+  },
+  {
+    "name": "roblox-app.svg",
+    "url": "https://star-buxx.com/icons/roblox-app.svg",
+    "file": "40a6e56dd9fe8c72.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 322
+  },
+  {
+    "name": "robux.svg",
+    "url": "https://star-buxx.com/icons/robux.svg",
+    "file": "570507b5e2ef9723.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 1069
+  },
+  {
+    "name": "roblox-logo.webp",
+    "url": "https://star-buxx.com/uploads/roblox-logo.webp",
+    "file": "0ff91d40fb4310f5.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 2978
+  },
+  {
+    "name": "pix-lockup.webp",
+    "url": "https://star-buxx.com/uploads/pix-lockup.webp",
+    "file": "f2da8a57858bfbc4.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 6196
+  },
+  {
+    "name": "12e40d59-7991-47e3-b23b-f55f0874188a.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/12e40d59-7991-47e3-b23b-f55f0874188a.png",
+    "file": "4fbb2388bf769040.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 5876
+  },
+  {
+    "name": "finalcta-bg-v2.webp",
+    "url": "https://star-buxx.com/uploads/home/finalcta-bg-v2.webp",
+    "file": "d3095a87aa7d078d.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 24278
+  },
+  {
+    "name": "bloxfruits-logo.png",
+    "url": "https://star-buxx.com/uploads/bloxfruits-logo.png",
+    "file": "e29f3f765052d7c4.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 31496
+  },
+  {
+    "name": "latest",
+    "url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6e/Human.png/revision/latest?cb=20240407190115",
+    "file": "5246b363ebbd4a7c.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 15478
+  },
+  {
+    "name": "6167668b-90aa-4945-b7f8-6fb68ccd8c96.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/6167668b-90aa-4945-b7f8-6fb68ccd8c96.png",
+    "file": "1e7e0251d8e59da3.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 9370
+  },
+  {
+    "name": "latest",
+    "url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/74/Cursed_Dual_Katana.png/revision/latest?cb=20241223032242",
+    "file": "50c3ae1abed58298.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 7272
+  },
+  {
+    "name": "svg-1",
+    "url": "inline-svg:411e8c9d36b8a527",
+    "file": "411e8c9d36b8a527.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 406
+  },
+  {
+    "name": "svg-2",
+    "url": "inline-svg:6b7e88209bd7c6a0",
+    "file": "6b7e88209bd7c6a0.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 406
+  },
+  {
+    "name": "svg-3",
+    "url": "inline-svg:cd3b60371c82a8c6",
+    "file": "cd3b60371c82a8c6.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 352
+  },
+  {
+    "name": "svg-4",
+    "url": "inline-svg:12e4fd5e49be5bfc",
+    "file": "12e4fd5e49be5bfc.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 410
+  },
+  {
+    "name": "svg-5",
+    "url": "inline-svg:bd0bdc98f3db1f00",
+    "file": "bd0bdc98f3db1f00.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 282
+  },
+  {
+    "name": "svg-6",
+    "url": "inline-svg:4b7e3fd953387f0a",
+    "file": "4b7e3fd953387f0a.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 366
+  },
+  {
+    "name": "svg-7",
+    "url": "inline-svg:ca854051a54b8d34",
+    "file": "ca854051a54b8d34.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 311
+  },
+  {
+    "name": "svg-8",
+    "url": "inline-svg:d4e24105238fdb5f",
+    "file": "d4e24105238fdb5f.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 311
+  },
+  {
+    "name": "svg-9",
+    "url": "inline-svg:76c697af86f38cab",
+    "file": "76c697af86f38cab.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 311
+  },
+  {
+    "name": "svg-10",
+    "url": "inline-svg:d859ae1fab3ff7b4",
+    "file": "d859ae1fab3ff7b4.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 311
+  },
+  {
+    "name": "svg-11",
+    "url": "inline-svg:47acd9ce782c5700",
+    "file": "47acd9ce782c5700.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 311
+  },
+  {
+    "name": "svg-12",
+    "url": "inline-svg:7ab862ab1b3c4041",
+    "file": "7ab862ab1b3c4041.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 1000
+  },
+  {
+    "name": "svg-13",
+    "url": "inline-svg:b12cc08098d2db76",
+    "file": "b12cc08098d2db76.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 359
+  },
+  {
+    "name": "svg-14",
+    "url": "inline-svg:ef4ade16eee745c6",
+    "file": "ef4ade16eee745c6.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 481
+  },
+  {
+    "name": "svg-15",
+    "url": "inline-svg:c8800f56d549d127",
+    "file": "c8800f56d549d127.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 403
+  },
+  {
+    "name": "svg-16",
+    "url": "inline-svg:a0a8bbd99c4d0ab6",
+    "file": "a0a8bbd99c4d0ab6.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 441
+  },
+  {
+    "name": "svg-17",
+    "url": "inline-svg:69b48d45837ee116",
+    "file": "69b48d45837ee116.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 393
+  },
+  {
+    "name": "svg-18",
+    "url": "inline-svg:edadf99a71b6b977",
+    "file": "edadf99a71b6b977.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 341
+  },
+  {
+    "name": "svg-19",
+    "url": "inline-svg:b55a5985f061525b",
+    "file": "b55a5985f061525b.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 337
+  },
+  {
+    "name": "svg-20",
+    "url": "inline-svg:9ebb34ce2d79590f",
+    "file": "9ebb34ce2d79590f.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 313
+  },
+  {
+    "name": "svg-21",
+    "url": "inline-svg:397ad1b3b383d45d",
+    "file": "397ad1b3b383d45d.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 313
+  },
+  {
+    "name": "svg-22",
+    "url": "inline-svg:f042dad82ced4283",
+    "file": "f042dad82ced4283.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 313
+  },
+  {
+    "name": "svg-23",
+    "url": "inline-svg:a6b47fa206464656",
+    "file": "a6b47fa206464656.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 313
+  },
+  {
+    "name": "svg-24",
+    "url": "inline-svg:5de71c29235fd0f1",
+    "file": "5de71c29235fd0f1.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 313
+  },
+  {
+    "name": "svg-25",
+    "url": "inline-svg:e987d7dc5df12433",
+    "file": "e987d7dc5df12433.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 313
+  },
+  {
+    "name": "svg-26",
+    "url": "inline-svg:3a3dec56071e3c6d",
+    "file": "3a3dec56071e3c6d.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 313
+  },
+  {
+    "name": "svg-27",
+    "url": "inline-svg:6c65be2d6de8b661",
+    "file": "6c65be2d6de8b661.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 296
+  },
+  {
+    "name": "svg-28",
+    "url": "inline-svg:b9da8cfa71789af3",
+    "file": "b9da8cfa71789af3.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 286
+  },
+  {
+    "name": "svg-29",
+    "url": "inline-svg:4a0bb003a650ad5f",
+    "file": "4a0bb003a650ad5f.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 406
+  },
+  {
+    "name": "svg-30",
+    "url": "inline-svg:9f2643b21a743809",
+    "file": "9f2643b21a743809.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 294
+  },
+  {
+    "name": "svg-31",
+    "url": "inline-svg:43fc72c6e2129eca",
+    "file": "43fc72c6e2129eca.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 327
+  },
+  {
+    "name": "svg-32",
+    "url": "inline-svg:2826ada21d6ea95a",
+    "file": "2826ada21d6ea95a.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 1167
+  },
+  {
+    "name": "svg-33",
+    "url": "inline-svg:dc8652a1251d2a46",
+    "file": "dc8652a1251d2a46.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 974
+  },
+  {
+    "name": "svg-34",
+    "url": "inline-svg:d84f191ca2db2b3a",
+    "file": "d84f191ca2db2b3a.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 395
+  },
+  {
+    "name": "svg-35",
+    "url": "inline-svg:0b02d9b225c86de0",
+    "file": "0b02d9b225c86de0.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 433
+  },
+  {
+    "name": "svg-36",
+    "url": "inline-svg:2248a6e21caa791a",
+    "file": "2248a6e21caa791a.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 492
+  },
+  {
+    "name": "svg-37",
+    "url": "inline-svg:4bbf9e4f67428849",
+    "file": "4bbf9e4f67428849.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 506
+  },
+  {
+    "name": "svg-38",
+    "url": "inline-svg:2d64c0a91234af4b",
+    "file": "2d64c0a91234af4b.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 445
+  },
+  {
+    "name": "svg-39",
+    "url": "inline-svg:c62d1c706be7cbdf",
+    "file": "c62d1c706be7cbdf.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 394
+  },
+  {
+    "name": "svg-40",
+    "url": "inline-svg:98a4178126011d97",
+    "file": "98a4178126011d97.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 429
+  },
+  {
+    "name": "svg-41",
+    "url": "inline-svg:4c321ad395fc7a91",
+    "file": "4c321ad395fc7a91.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 322
+  },
+  {
+    "name": "svg-42",
+    "url": "inline-svg:94c78574730443b2",
+    "file": "94c78574730443b2.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 380
+  },
+  {
+    "name": "svg-43",
+    "url": "inline-svg:8655cc8369fad70b",
+    "file": "8655cc8369fad70b.svg",
+    "kind": "image",
+    "contentType": "image/svg+xml",
+    "bytes": 504
+  },
+  {
+    "name": "bloxfruits-hero-v3.mp4",
+    "url": "https://star-buxx.com/__l5e/assets-v1/ec3192b3-00d8-4add-a83e-2a656435f41a/bloxfruits-hero-v3.mp4",
+    "file": "0ee147a746db3ef7.mp4",
+    "kind": "video",
+    "contentType": "video/mp4",
+    "bytes": 2599752
+  },
+  {
+    "name": "a0d6afb0-d460-454c-ac85-3f1510306166.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/a0d6afb0-d460-454c-ac85-3f1510306166.png",
+    "file": "9e4a9a1bfc31d718.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 258404
+  },
+  {
+    "name": "d64cee91-97fb-4287-8b83-76b28f083304.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/d64cee91-97fb-4287-8b83-76b28f083304.png",
+    "file": "0d2d9b0eba93676c.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 257116
+  },
+  {
+    "name": "96b18ceb-85be-4454-bf8e-ac3fb2c8d336.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/96b18ceb-85be-4454-bf8e-ac3fb2c8d336.png",
+    "file": "840351679c6aa98c.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 239124
+  },
+  {
+    "name": "734f21da-25dd-49f5-a4d4-652f1caa2cc2.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/734f21da-25dd-49f5-a4d4-652f1caa2cc2.png",
+    "file": "2ae7dbe33814058b.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 305890
+  },
+  {
+    "name": "21df4438-ab13-4820-9d51-4cb8a6b513b7.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/21df4438-ab13-4820-9d51-4cb8a6b513b7.png",
+    "file": "242957e095c9d596.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 279750
+  },
+  {
+    "name": "23044901-d6b0-47bc-8669-49501545f046.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/23044901-d6b0-47bc-8669-49501545f046.png",
+    "file": "949b8fec1848a79f.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 440743
+  },
+  {
+    "name": "a703feed-d2ea-494c-b9cf-60adf0a45616.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/a703feed-d2ea-494c-b9cf-60adf0a45616.png",
+    "file": "79c818cbf1a61be9.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 10891
+  },
+  {
+    "name": "b6735732-5568-4fa1-b643-ee4e187cf4f0.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/b6735732-5568-4fa1-b643-ee4e187cf4f0.png",
+    "file": "54ff8877a845072f.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 11708
+  },
+  {
+    "name": "7d40d072-c4c0-479f-9107-6719b78f496e.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/7d40d072-c4c0-479f-9107-6719b78f496e.png",
+    "file": "ccfc1621f6b5dace.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 8974
+  },
+  {
+    "name": "79164896-6db9-42ec-a4cb-fc7034c74b06.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/79164896-6db9-42ec-a4cb-fc7034c74b06.png",
+    "file": "b444f587aaa8c993.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 11330
+  },
+  {
+    "name": "e86b4f92-b6db-41bf-9c0e-dcec0d82298f.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/e86b4f92-b6db-41bf-9c0e-dcec0d82298f.png",
+    "file": "dc1694eb117feef6.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 9644
+  },
+  {
+    "name": "ee071635-6e01-428a-9b26-1f11a79214df.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/ee071635-6e01-428a-9b26-1f11a79214df.png",
+    "file": "18f3bfb8e52f6878.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 11218
+  },
+  {
+    "name": "brainrot-hero.webp",
+    "url": "https://star-buxx.com/__l5e/assets-v1/a6d53c20-3fda-4abb-a237-85fc2353b420/brainrot-hero.webp",
+    "file": "00c586a124e9321f.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 953406
+  },
+  {
+    "name": "d526fc3c-1311-4668-bd29-cdb7e7359da9.avif",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/d526fc3c-1311-4668-bd29-cdb7e7359da9.avif",
+    "file": "d1fbc54b4b44a3bb.avif",
+    "kind": "image",
+    "contentType": "image/avif",
+    "bytes": 22066
+  },
+  {
+    "name": "46ff1160-3a59-4027-8317-1e46d5260252.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/46ff1160-3a59-4027-8317-1e46d5260252.png",
+    "file": "d15a36c00baa8adf.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 6012
+  },
+  {
+    "name": "49a905a2-277b-42b7-877e-b4b8f001aba4.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/49a905a2-277b-42b7-877e-b4b8f001aba4.png",
+    "file": "5f7d32c7be69b510.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 12622
+  },
+  {
+    "name": "a0d464bd-c8e7-4704-9d70-6edad8bc8f0b.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/a0d464bd-c8e7-4704-9d70-6edad8bc8f0b.png",
+    "file": "6e501f888ab32e23.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 6718
+  },
+  {
+    "name": "86bf8e16-21e8-4a16-9f74-31cabfe34883.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/86bf8e16-21e8-4a16-9f74-31cabfe34883.png",
+    "file": "d5d73def579650c4.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 11358
+  },
+  {
+    "name": "42555698-08f0-48fc-a02b-abdb29259def.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/42555698-08f0-48fc-a02b-abdb29259def.png",
+    "file": "96d84ca90a004187.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 68063
+  },
+  {
+    "name": "2b666bf3-b98f-4735-93c0-41c992b01d9c.png",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/2b666bf3-b98f-4735-93c0-41c992b01d9c.png",
+    "file": "31bcc871219d9b9d.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 9450
+  },
+  {
+    "name": "8ee8c2fe-cc00-4f82-a5b7-310a58319804.webp",
+    "url": "https://ajyrzpwxwwaoiqqnbfhh.supabase.co/storage/v1/object/public/product-images/8ee8c2fe-cc00-4f82-a5b7-310a58319804.webp",
+    "file": "c7aec57ac3573680.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 19452
+  },
+  {
+    "name": "mm2-hero.webp",
+    "url": "https://star-buxx.com/__l5e/assets-v1/5d40fb0e-c118-4f0a-ba8b-675b4e37cd14/mm2-hero.webp",
+    "file": "0f94b0b8c2254f3c.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 162260
+  },
+  {
+    "name": "hero-bloxfruits-v2.webp",
+    "url": "https://star-buxx.com/uploads/home/hero-bloxfruits-v2.webp",
+    "file": "9f350ef23b7b2633.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 220446
+  },
+  {
+    "name": "guia-compra-poster.webp",
+    "url": "https://star-buxx.com/uploads/home/guia-compra-poster.webp",
+    "file": "df3010bc08736223.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 50676
+  },
+  {
+    "name": "vitrine-robux-plus-v2-560.webp",
+    "url": "https://star-buxx.com/uploads/home/vitrine-robux-plus-v2-560.webp",
+    "file": "07d27d1b662eb58c.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 13718
+  },
+  {
+    "name": "vitrine-gamepass-v2-560.webp",
+    "url": "https://star-buxx.com/uploads/home/vitrine-gamepass-v2-560.webp",
+    "file": "ee3d26c827ca7430.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 60774
+  },
+  {
+    "name": "vitrine-icon-gamepass-v2.webp",
+    "url": "https://star-buxx.com/uploads/home/vitrine-icon-gamepass-v2.webp",
+    "file": "e199c97d18812f86.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 12118
+  },
+  {
+    "name": "hero-gamepass-horizontal-v2.webp",
+    "url": "https://star-buxx.com/uploads/home/hero-gamepass-horizontal-v2.webp",
+    "file": "bcdcfe5366d50f19.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 186862
+  },
+  {
+    "name": "hero-mm2-v2.webp",
+    "url": "https://star-buxx.com/uploads/home/hero-mm2-v2.webp",
+    "file": "76136c20809e6b67.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 162260
+  },
+  {
+    "name": "hero-gamepass-tradicional-v2.webp",
+    "url": "https://star-buxx.com/uploads/home/hero-gamepass-tradicional-v2.webp",
+    "file": "cf598e4d3188f0db.webp",
+    "kind": "image",
+    "contentType": "image/webp",
+    "bytes": 91374
+  },
+  {
+    "name": "robux-preset-white.png",
+    "url": "https://star-buxx.com/__l5e/assets-v1/97da819b-ac59-4e92-89eb-da0a297c8304/robux-preset-white.png",
+    "file": "95f42cfc9a9a702b.png",
+    "kind": "image",
+    "contentType": "image/png",
+    "bytes": 26626
+  }
+]
