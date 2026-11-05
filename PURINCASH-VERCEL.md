@@ -47,3 +47,6 @@ Esta versão usa a consulta de status, alternativa documentada pela PurinCash ao
 - https://docs.purincash.com/webhooks/assinatura
 - https://vercel.com/docs/functions/runtimes/node-js
 - https://vercel.com/docs/project-configuration/vercel-json
+
+## Correção de rotas na Vercel
+As rotas /api/payments/config, /api/payments/create e /api/payments/status possuem arquivos explícitos em api/payments. Não dependem do roteamento dinâmico de um framework. Confirmada a falha inicial por 404 em /api/payments/config, enquanto /api/roblox/user respondia normalmente. Após enviar os arquivos ao GitHub, aguarde o novo deploy; a rota config deve responder JSON com enabled, sem exibir a chave.

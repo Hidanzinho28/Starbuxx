@@ -22,3 +22,14 @@ test('consulta PIX pendente não reabre modal depois de fechado',async()=>{
  const ctx={window:{lojaCart:{open:()=>opened++}},document:{hidden:false,querySelector:s=>s==='#modal'?modal:s==='.pc-payment'?{}:s==='#pc-payment-status'?{textContent:''}:null,addEventListener:(type,fn)=>{if(type==='click')click=fn},querySelectorAll:()=>[]},localStorage:{getItem:k=>records[k]||null,setItem:(k,v)=>records[k]=v},location:{pathname:'/robux',hostname:'localhost'},AbortSignal,Date,setTimeout:()=>1,clearTimeout(){},fetch:async url=>url.endsWith('/status')?await new Promise(resolve=>resolveStatus=resolve):({ok:true,json:async()=>url.endsWith('/config')?{enabled:true}:response})};
  vm.runInNewContext(fs.readFileSync(new URL('../dist/payments.js',import.meta.url),'utf8'),ctx);await ctx.window.paymentUI.ready;await ctx.window.paymentUI.create({items:[],onConfirmed(){}});click({target:{closest:()=>({hasAttribute:key=>key==='data-pc-refresh'})}});await new Promise(setImmediate);modal.open=false;close();resolveStatus({ok:true,json:async()=>({status:'pago'})});await new Promise(setImmediate);assert.equal(opened,1);assert.equal(ctx.window.paymentUI.saved()[0].status,'pago');
 });
+
+test('rotas explicitas de pagamento funcionam sem roteamento dinamico de framework',async()=>{
+ const oldKey=process.env.PURINCASH_API_KEY;delete process.env.PURINCASH_API_KEY;
+ try{
+  for(const action of ['config','create','status']){
+   const {default:handler}=await import('../api/payments/'+action+'.js');let output;const res={setHeader(){},end(v){output=JSON.parse(v)}};
+   await handler({method:action==='config'?'GET':'POST',headers:{host:'loja.example','content-type':'application/json'},body:{}},res);
+   assert.equal(res.statusCode,action==='config'?200:503);assert(action==='config'?'enabled' in output:!!output.error);
+  }
+ }finally{if(oldKey===undefined)delete process.env.PURINCASH_API_KEY;else process.env.PURINCASH_API_KEY=oldKey}
+});
